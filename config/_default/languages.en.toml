@@ -1,0 +1,76 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Marcio Cruz de Almeida"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "January 02, 2006"
+# logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Marcio Cruz de Almeida"
+email = "marciocadev@gmail.com"
+image = "https://avatars.githubusercontent.com/u/67694075?v=4"
+imageQuality = 96
+headline = "Solutions Architect at RD Saúde"
+bio = "Cloud enthusiast and AWS aficionado, serving as Solutions Architect at RD Saúde. Serverless specialist and active contributor to open-source projects including AWS CDK, Projen, and Winglang."
+links = [
+  { email = "mailto:hello@your_domain.com" },
+  { linkedin = "https://www.linkedin.com/in/marcio-almeida-25891669/" },
+  { github = "https://github.com/marciocadev" },
+  { twitter = "https://twitter.com/LazinessDevs" },
+  { x-twitter = "https://x.com/LazinessDevs" },
+#     { link = "https://link-to-some-website.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { bluesky = "https://bsky.app/profile/username" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { itch-io = "https://username.itch.io" },
+#     { keybase = "https://keybase.io/username" },
+#     { keyoxide = "https://keyoxide.org/URI" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { matrix = "https://matrix.to/#/URI" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { signal = "https://signal.me/#eu/userid" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/username" },
+#     { threads = "https://www.threads.net/@username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+#     { codeberg = "https://codeberg.org/username"},
+]
