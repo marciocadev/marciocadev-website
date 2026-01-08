@@ -1,5 +1,5 @@
 ---
-title: "Configurando o seu ambiente AWS"
+title: "Configurando a AWS no Seu Computador"
 tags: ["AWS"]
 date: 2026-01-05
 draft: false

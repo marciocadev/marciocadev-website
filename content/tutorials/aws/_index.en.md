@@ -8,6 +8,7 @@ cascade:
   invertPagination: true
   sharingLinks: false
   draft: false
+  featureimage: /images/tutorials/aws/aws_midjourney.png
 ---
 
 {{< lead >}}

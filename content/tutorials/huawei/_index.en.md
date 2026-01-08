@@ -8,6 +8,7 @@ cascade:
   invertPagination: true
   sharingLinks: false
   draft: true
+  featureimage: /images/tutorials/huawei/huawei_midjourney.png
 ---
 
 {{< lead >}}

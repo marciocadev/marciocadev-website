@@ -1,0 +1,9 @@
+- name: Alice Johnson
+  role: Project Manager
+  photo: /images/team/alice.jpg
+- name: Bruno Silva
+  role: Backend Developer
+  photo: /images/team/bruno.jpg
+- name: Carla Mendes
+  role: Designer
+  photo: /images/team/carla.jpg

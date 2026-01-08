@@ -1,5 +1,5 @@
 ---
-title: "Configuring your AWS environment"
+title: "How to Set Up AWS on Your Computer"
 tags: ["AWS"]
 date: 2026-01-05
 draft: false

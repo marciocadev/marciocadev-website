@@ -1,0 +1,9 @@
+<div class="teams">
+  {{ range .Site.Data.team }}
+  <div class="member">
+    <img src="{{ .photo }}" alt="{{ .name }}" />
+    <h3>{{ .name }}</h3>
+    <p>{{ .role }}</p>
+  </div>
+  {{ end }}
+</div>
